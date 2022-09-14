@@ -1,12 +1,14 @@
 # Riot Launcher for SteamOS - sd card edition
 
-## Follow the video in the attribution section below with the following modifications:
+## How to use it
+<br/>
+*Follow the video in the attribution section below with the following modifications:* <br/>
 
-1) Create a folder on your sd card and place the League of Legends installer, the wine folder containing wine-ge-custom, and the LoL.sh script from this repo in that folder.
-2) Under Preferences/Advanced, set Bottles to create new botttles in the folder you created in step one.
+1) Create a folder on your sd card and place the League of Legends installer, the wine folder containing wine-ge-custom, and the LoL.sh script from this repo in that folder. <br/>
+2) Under Preferences/Advanced, set Bottles to create new botttles in the folder you created in step one. <br/>
 
 ## How it works (a brief overview)
-
+<br/>
 `#!/bin/bash` tells the operating system that this is a Bash shell script. <br/>
 
 `WINEPREFIX` is a variable that tells Wine where to find all of it's configuration files. <br/>
