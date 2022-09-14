@@ -16,7 +16,7 @@ fi
 if [[ ! -f $thisdir/$lolexe ]]
   then
     echo "LoL installer not found, opening a link so you can download it"
-# need to link the downloader script here.
+    /bin/bash $thisdir/downloader.sh
 fi
 
 # create the LoL folder, if it doesn't exist
