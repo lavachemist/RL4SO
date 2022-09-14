@@ -7,6 +7,8 @@
 
 ## How it works (a brief overview)
 
+`#!/bin/bash` tells the operating system that this is a Bash shell script. <br\>
+
 `WINEPREFIX` is a variable that tells Wine where to find all of it's configuration files. <br/>
 
 `${BASH_SOURCE%/*}` is the directory that the LoL.sh script is located in. <br/>
@@ -21,6 +23,7 @@ So, the script will tell Wine to look in the following locations: <br/>
 
 3) The drive_c folder that is automatically created in the LoL folder: <br/>
 `${BASH_SOURCE%/*}/LoL/drive_c/Riot\ Games/Riot\ Client/RiotClientServices.exe` <br/>
+NOTE: the backslash "\" is an escape character for bash. It's used here to tell Bash that the spaces in the Windows executable are part of the file name.
 
 This should help you figure out how to install your bottle anwhere you want.
 
