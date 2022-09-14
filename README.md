@@ -1,5 +1,4 @@
-# RL4SO
-Riot Launcher for SteamOS - sd card edition
+# Riot Launcher for SteamOS - sd card edition
 
 Follow the video in the attribution section below with the following modifications:
 
