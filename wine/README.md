@@ -1,1 +1,0 @@
-# This is the folder where lutris-ge-lol-7.14-1-x86_64 will reside
