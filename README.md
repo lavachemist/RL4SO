@@ -7,20 +7,20 @@
 
 ## How it works (a brief overview)
 
-`WINEPREFIX` is a variable that tells Wine where to find all of it's configuration files. 
+`WINEPREFIX` is a variable that tells Wine where to find all of it's configuration files. <br/>
 
-`${BASH_SOURCE%/*}` is the directory that the LoL.sh script is located in.
+`${BASH_SOURCE%/*}` is the directory that the LoL.sh script is located in. <br/>
 
-So, the script will tell Wine to look in the following locations:
+So, the script will tell Wine to look in the following locations: <br/>
 
-1) A folder called LoL that is in the same directory as the LoL.sh:
-`${BASH_SOURCE%/*}/LoL`
+1) A folder called LoL that is in the same directory as the LoL.sh: <br/>
+`${BASH_SOURCE%/*}/LoL` <br/>
 
-2) A folder, in the same directory, called wine that contains the Lutris release from the wine-ge-custom git:
-`${BASH_SOURCE%/*}/wine/lutris-ge-lol-7.14-1-x86_64/bin/wine`
+2) A folder, in the same directory, called wine that contains the Lutris release from the wine-ge-custom git: <br/>
+`${BASH_SOURCE%/*}/wine/lutris-ge-lol-7.14-1-x86_64/bin/wine` <br/>
 
-3) The drive_c folder that is automatically created in the LoL folder:
-`${BASH_SOURCE%/*}/LoL/drive_c/Riot\ Games/Riot\ Client/RiotClientServices.exe`
+3) The drive_c folder that is automatically created in the LoL folder: <br/>
+`${BASH_SOURCE%/*}/LoL/drive_c/Riot\ Games/Riot\ Client/RiotClientServices.exe` <br/>
 
 This should help you figure out how to install your bottle anwhere you want.
 
