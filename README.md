@@ -4,8 +4,12 @@
 
 _Follow the video in the attribution section below with the following modifications_ <br/>
 
-1) Create a folder on your sd card and place the League of Legends installer, the wine folder containing wine-ge-custom, and the LoL.sh script from this repo in that folder. <br/>
-2) Under Preferences/Advanced, set Bottles to create new botttles in the folder you created in step one. <br/>
+1) Create a folder on your sd card and place the League of Legends installer, the wine folder containing wine-ge-custom, and the LoL.sh script from this repo in that folder. <br/>  
+_for instance:_  
+`/run/media/<sd card name>/<some folder you create>/LoL` <- The LoL.sh script goes in this folder  
+`/run/media/<sd card name>/<some folder you create>/wine` <- The wine-ge-custom folder goes in this folder  
+
+3) Under Preferences/Advanced, set Bottles to create new botttles in the folder you created in step one. <br/>
 
 ## How it works (a brief overview) <br/>
 
