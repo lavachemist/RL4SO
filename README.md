@@ -2,7 +2,7 @@
 
 ## How to use it <br/>
 
-_Follow the tutorial video in the attribution section below, with the following modifications_ <br/>
+_Follow the tutorial video in the attribution section below, with the following modifications_  
 
 1) Place the the LoL.sh script, League of Legends installer, the wine folder, and LoL folder somewhere on your sd card<br/>  
 _for instance:_  
