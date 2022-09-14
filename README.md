@@ -7,7 +7,7 @@
 
 ## How it works (a brief overview)
 
-`#!/bin/bash` tells the operating system that this is a Bash shell script. <br\>
+`#!/bin/bash` tells the operating system that this is a Bash shell script. <br/>
 
 `WINEPREFIX` is a variable that tells Wine where to find all of it's configuration files. <br/>
 
