@@ -10,7 +10,7 @@ _for instance:_
 `/run/media/<sd card name>/<some folder you create>/LoL/`  
 `/run/media/<sd card name>/<some folder you create>/wine/` <- wine-ge-custom goes in this folder  
 
-3) Under Preferences/Advanced, set Bottles to create new botttles in the folder you created in step one. <br/>
+3) Under Preferences/Advanced, set Bottles to create new bottles in the folder you created in step one. <br/>
 
 ## How it works (a brief overview) <br/>
 
