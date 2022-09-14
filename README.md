@@ -2,9 +2,9 @@
 
 ## How to use it <br/>
 
-_Follow the video in the attribution section below with the following modifications_ <br/>
+_Follow the tutorial video in the attribution section below, with the following modifications_ <br/>
 
-1) Create a folder on your sd card and place the the LoL.sh script, League of Legends installer, the wine folder containing wine-ge-custom, and a folder called LoL <br/>  
+1) Place the the LoL.sh script, League of Legends installer, the wine folder, and LoL folder somewhere on your sd card<br/>  
 _for instance:_  
 `/run/media/<sd card name>/<some folder you create>/` <- The LoL.sh script goes inside this folder  
 `/run/media/<sd card name>/<some folder you create>/LoL/`  
